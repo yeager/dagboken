@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the dagboken package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: dagboken\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-22 17:18+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/dagboken/main.py:23 src/dagboken/main.py:158
+msgid "Dagboken"
+msgstr ""
+
+#: src/dagboken/main.py:36
+msgid "About"
+msgstr ""
+
+#: src/dagboken/main.py:43
+msgid "My Diary"
+msgstr ""
+
+#: src/dagboken/main.py:65
+msgid "No entries yet. Tap + to add your first entry!"
+msgstr ""
+
+#: src/dagboken/main.py:74
+msgid "New Entry"
+msgstr ""
+
+#: src/dagboken/main.py:79
+msgid "Save"
+msgstr ""
+
+#: src/dagboken/main.py:100
+msgid "What happened today?"
+msgstr ""
+
+#: src/dagboken/main.py:161
+msgid "Picture diary for children"
+msgstr ""

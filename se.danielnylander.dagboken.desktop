@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=udagboken
+Comment=Picture diary for children with autism
+Comment[sv]=Bilddagbok för barn
+Exec=dagboken
+Icon=se.danielnylander.dagboken
+Type=Application
+Categories=Education;Accessibility;
