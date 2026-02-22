@@ -1,5 +1,6 @@
 [Desktop Entry]
-Name=udagboken
+Name=The Diary
+Name[sv]=Dagboken
 Comment=Picture diary for children with autism
 Comment[sv]=Bilddagbok för barn
 Exec=dagboken

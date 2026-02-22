@@ -20,7 +20,7 @@ def N_(s): return s
 class MainWindow(Adw.ApplicationWindow):
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
-        self.set_title(_('Dagboken'))
+        self.set_title(_('The Diary'))
         self.set_default_size(500, 550)
         self._entries = []
         self._config_dir = os.path.join(GLib.get_user_config_dir(), 'dagboken')
@@ -155,7 +155,7 @@ class App(Adw.Application):
         self.add_action(about)
     def _on_activate(self, app): MainWindow(application=app).present()
     def _on_about(self, a, p):
-        Adw.AboutDialog(application_name=_('Dagboken'), application_icon=APP_ID,
+        Adw.AboutDialog(application_name=_('The Diary'), application_icon=APP_ID,
             version=__version__, developer_name='Daniel Nylander',
             website='https://github.com/yeager/dagboken', license_type=Gtk.License.GPL_3_0,
             comments=_('Picture diary for children'),
