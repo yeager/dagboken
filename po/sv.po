@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dagboken\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-22 17:18+0100\n"
+"POT-Creation-Date: 2026-02-23 11:03+0100\n"
 "PO-Revision-Date: 2026-02-22 16:22+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
 "Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/305242/sv/)\n"
@@ -21,34 +21,46 @@ msgstr ""
 "Language: sv\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: src/dagboken/main.py:23 src/dagboken/main.py:158
+#: src/dagboken/main.py:23 src/dagboken/main.py:217
+msgid "The Diary"
+msgstr "Dagboken"
+
+#: src/dagboken/main.py:41
 msgid "Dagboken"
 msgstr "Dagboken"
 
-#: src/dagboken/main.py:36
+#: src/dagboken/main.py:50
 msgid "About"
 msgstr "Om"
 
-#: src/dagboken/main.py:43
+#: src/dagboken/main.py:57
 msgid "My Diary"
 msgstr "Min dagbok"
 
-#: src/dagboken/main.py:65
+#: src/dagboken/main.py:79
 msgid "No entries yet. Tap + to add your first entry!"
 msgstr "Inga poster ännu. Klicka på + för att lägga till din först post!"
 
-#: src/dagboken/main.py:74
+#: src/dagboken/main.py:88
 msgid "New Entry"
 msgstr "Ny post"
 
-#: src/dagboken/main.py:79
+#: src/dagboken/main.py:93
 msgid "Save"
 msgstr "Spara"
 
-#: src/dagboken/main.py:100
+#: src/dagboken/main.py:114
 msgid "What happened today?"
 msgstr "Vad hände idag?"
 
-#: src/dagboken/main.py:161
+#: src/dagboken/main.py:194
+msgid "🎉 Du hittade hemligheten!"
+msgstr "🎉 Du hittade hemligheten!"
+
+#: src/dagboken/main.py:220
 msgid "Picture diary for children"
 msgstr "Bilddagbok för barn"
+
+#: src/dagboken/main.py:222
+msgid "Thanks to"
+msgstr "Tack till"
